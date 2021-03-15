@@ -22,8 +22,32 @@
           "!type": "External",
           "file": [
             "forms",
-            "Form1",
-            "Form1.json"
+            "cityWhile",
+            "cityWhile.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "forReverseStates",
+            "forReverseStates.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "functionCompare",
+            "functionCompare.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "dogStore",
+            "dogStore.json"
           ]
         }
       ],
@@ -46,7 +70,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "Form1",
+      "firstform": "cityWhile",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
